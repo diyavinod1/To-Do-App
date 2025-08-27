@@ -32,7 +32,7 @@ Built with a beautiful gradient UI and a focus on productivity + simplicity.
 Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License – free to use and modify.
 
