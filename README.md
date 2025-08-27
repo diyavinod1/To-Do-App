@@ -1,4 +1,4 @@
-# 📝To-Do-App
+## 📝To-Do-App
 
 A simple and elegant To-Do application to keep track of your daily tasks.
 Built with a beautiful gradient UI and a focus on productivity + simplicity.
@@ -6,9 +6,13 @@ Built with a beautiful gradient UI and a focus on productivity + simplicity.
 # 🚀 Features
 
 ✅ Add new tasks
+
 ✏️ Edit existing tasks
+
 🗑️ Delete completed tasks
+
 🌈 Sleek gradient background for modern UI
+
 💾 Data persistence (tasks stay even after reload, if storage is used)
 
 # 🛠️ Tech Stack
